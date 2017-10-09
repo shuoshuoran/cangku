@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SecoundView">
+        <attr name="isOpen" format="boolean" />
+    </declare-styleable>
+
+    <declare-styleable name="CustomTitleView">
+        <attr name="test" format="integer"/>
+    </declare-styleable>
+</resources>
+

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\dragon\\Downloads\\ijkplayer-master\\android\\TestView\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bg.png",
+        "source": "C:\\Users\\dragon\\Downloads\\ijkplayer-master\\android\\TestView\\app\\src\\main\\res\\mipmap-hdpi\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\dragon\\Downloads\\ijkplayer-master\\android\\TestView\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\slide.png",
+        "source": "C:\\Users\\dragon\\Downloads\\ijkplayer-master\\android\\TestView\\app\\src\\main\\res\\mipmap-hdpi\\slide.png"
+    },
+    {
+        "merged": "C:\\Users\\dragon\\Downloads\\ijkplayer-master\\android\\TestView\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\dragon\\Downloads\\ijkplayer-master\\android\\TestView\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]
