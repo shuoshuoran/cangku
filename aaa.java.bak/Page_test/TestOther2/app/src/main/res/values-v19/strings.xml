@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestOther</string>
+
+    <string name="name" >张三</string>
+    <string name="lisi">李思思</string>
+
+</resources>

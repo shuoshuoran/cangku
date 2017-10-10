@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <Button
+        android:text="点击"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_third"
+        />
+    <TextView
+
+        android:id="@+id/tv_23"
+        android:layout_below="@id/btn_third"
+        android:layout_width="100dp"
+        android:gravity="center"
+        android:layout_height="50dp"
+        android:text="23"
+
+        />
+
+    <TextView
+        android:id="@+id/tv_58"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:text="58"
+        android:gravity="center"
+        android:layout_below="@id/tv_23"
+
+        />
+
+    <TextView
+        android:id="@+id/tv_10000"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:text="10000"
+        android:gravity="center"
+        android:layout_below="@id/tv_58"
+
+        />
+
+    <TextView
+        android:layout_centerInParent="true"
+        android:text="我是第二个界面"
+        android:textColor="#ff0000"
+        android:id="@+id/tv_01"
+        android:textSize="21sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</RelativeLayout>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.administrator.fragmenyt_test.MainActivity">
+
+    <FrameLayout
+        android:id="@+id/fl_home"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1" />
+
+
+    <RadioGroup
+        android:id="@+id/rg_all"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:orientation="horizontal"
+        android:background="#ff0000"
+        android:gravity="center_vertical"
+        >
+        <RadioButton
+            android:button="@null"
+            android:id="@+id/bt_first"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="首页"
+            android:textSize="20dp"
+            android:layout_weight="1"
+            />
+        <RadioButton
+            android:button="@null"
+            android:id="@+id/bt_app"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="应用"
+            android:textSize="20dp"
+            android:layout_weight="1"
+            />
+        <RadioButton
+            android:button="@null"
+            android:id="@+id/bt_manage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="管理"
+            android:textSize="20dp"
+            android:layout_weight="1"
+            />
+        <RadioButton
+            android:button="@null"
+            android:id="@+id/bt_hot"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="热点"
+            android:textSize="20dp"
+            android:layout_weight="1"
+            />
+
+    </RadioGroup>
+
+</LinearLayout>

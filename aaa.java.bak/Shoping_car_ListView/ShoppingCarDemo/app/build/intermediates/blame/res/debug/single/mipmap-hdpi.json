@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\asworkspace\\ShoppingCarDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "E:\\asworkspace\\ShoppingCarDemo\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\asworkspace\\ShoppingCarDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\aa.png",
+        "source": "E:\\asworkspace\\ShoppingCarDemo\\app\\src\\main\\res\\mipmap-hdpi\\aa.png"
+    },
+    {
+        "merged": "E:\\asworkspace\\ShoppingCarDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\bb.png",
+        "source": "E:\\asworkspace\\ShoppingCarDemo\\app\\src\\main\\res\\mipmap-hdpi\\bb.png"
+    }
+]
